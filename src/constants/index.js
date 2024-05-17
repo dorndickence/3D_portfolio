@@ -198,6 +198,15 @@ export const projects = [
         link: 'https://github.com/dorndickence',
     },
     {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'Worker AI',
+        description: 'Developed an AI that leverages work by mimicking human emotions and Natural language .',
+        link: 'https://github.com/dorndickence',
+    },
+    
+    
+    {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Random password generator',
@@ -208,7 +217,7 @@ export const projects = [
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Smart irrigation with chatgpt',
-        description: 'Desined a robotic irrigation machine that automatically waters and monitors the farm,by giving recommendations based on the historical data.',
+        description: 'Designed a robotic irrigation machine that automatically waters and monitors the farm,by giving recommendations based on the historical data.',
         link: 'https://github.com/dorndickence',
     },
     {
