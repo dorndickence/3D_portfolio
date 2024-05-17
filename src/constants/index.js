@@ -227,6 +227,14 @@ export const projects = [
         description: 'Designed a robotic irrigation machine that automatically waters and monitors the farm,by giving recommendations based on the historical data.',
         link: 'https://github.com/dorndickence',
     },
+    
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'Robot arm',
+        description: 'Developed a web robotic prototype arm that use motion and ir sensors to calculate next move,it uses the arm to pick objects.',
+        link: 'https://github.com/dorndickence/ROBOT-ARM',
+    },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
