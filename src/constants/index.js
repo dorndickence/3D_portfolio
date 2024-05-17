@@ -204,6 +204,13 @@ export const projects = [
         description: 'Developed an AI that leverages work by mimicking human emotions and Natural language .',
         link: 'https://github.com/dorndickence',
     },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'Wedding app',
+        description: 'created A wedding app that shows all activities that would happen during wedding.',
+        link: 'https://github.com/dorndickence',
+    },
     
     
     {
