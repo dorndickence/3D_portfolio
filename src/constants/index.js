@@ -104,6 +104,11 @@ export const skills = [
         type: "Frontend",
     },
     {
+        imageUrl: python,
+        name: "python ",
+        type: "Backend",
+    },
+    {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
@@ -118,37 +123,38 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Data analyzer",
+        company_name: "kaggle",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "Feb 2022 - April 2021",
+        date: "Jan 2023 - sept 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Developing and maintaining datasets based on the real time data.",
+            "Collaborating with cross-functional teams including researches and other developers to create high-quality dataset.",
+            "Implementing AI techniques for clean  compatibility among most of machines being trained..",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    {
-        title: "React Native Developer",
-        company_name: "Tesla",
+    
+       {
+        title: "Ai trainer ",
+        company_name: "Amazon ",
         icon: tesla,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Aug 2023 - Jan 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Developing and training  Ai applications.",
+            "Collaborating with cross-functional teams including programers,AI Engeneers and other developers to create high-quality AI machines.",
+            "Implementing AI Algorithms and machine learning techniques.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
+        company_name: "Any client",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Jan 2024 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -156,6 +162,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    /*
     {
         title: "Full stack Developer",
         company_name: "Meta",
@@ -169,6 +176,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+    */
 ];
 
 export const socialLinks = [
@@ -247,6 +255,13 @@ export const projects = [
         theme: 'btn-back-black',
         name: 'IPhone calculator prototype',
         description: 'Developed a web application for an iphone calculator .',
+        link: 'https://github.com/dorndickence',
+    },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Sequence to sequence model',
+        description: 'Developed a model that uses sequence to sequence mechanism and mimicks Natural language processing.',
         link: 'https://github.com/dorndickence',
     },
     {
