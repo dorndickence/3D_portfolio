@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "Data analyzer",
         company_name: "kaggle",
-        icon: starbucks,
+        icon: Kaggle,
         iconBg: "#accbe1",
         date: "Jan 2023 - sept 2023",
         points: [
@@ -140,7 +140,7 @@ export const experiences = [
        {
         title: "Ai trainer ",
         company_name: "Amazon ",
-        icon: tesla,
+        icon: Amazon,
         iconBg: "#fbc3bc",
         date: "Aug 2023 - Jan 2024",
         points: [
@@ -153,7 +153,7 @@ export const experiences = [
     {
         title: "Web Developer",
         company_name: "Any client",
-        icon: shopify,
+        icon: tesla,
         iconBg: "#b7e4c7",
         date: "Jan 2024 - Present",
         points: [
