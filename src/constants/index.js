@@ -1,4 +1,4 @@
-import { kaggle, amazon, starbucks, tesla } from "../assets/images";
+import { shopify, meta, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "Data analyzer",
         company_name: "kaggle",
-        icon: kaggle,
+        icon: meta,
         iconBg: "#accbe1",
         date: "Jan 2023 - sept 2023",
         points: [
@@ -140,7 +140,7 @@ export const experiences = [
        {
         title: "Ai trainer ",
         company_name: "Amazon ",
-        icon: amazon,
+        icon: shopify,
         iconBg: "#fbc3bc",
         date: "Aug 2023 - Jan 2024",
         points: [
