@@ -1,14 +1,14 @@
 import hero from './hero.jpg'
-import kaggle from './kaggle.PNG'
-import amazon from './amazon.PNG'
+import shopify from './shopify.png'
+import meta from './meta.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 
 export {
     hero,
-    kaggle,
-    amazon,
+    shopify,
+    meta,
     starbucks,
     tesla,
     logo
