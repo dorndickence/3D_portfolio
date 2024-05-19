@@ -103,11 +103,12 @@ export const skills = [
         name: "Sass",
         type: "Frontend",
     },
-    {
+   /* {
         imageUrl: python,
         name: "python ",
         type: "Backend",
     },
+*/
     {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
@@ -162,6 +163,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+ ];   
     /*
     {
         title: "Full stack Developer",
@@ -177,7 +179,7 @@ export const experiences = [
         ],
     },
     */
-];
+
 
 export const socialLinks = [
     {
