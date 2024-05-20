@@ -208,6 +208,13 @@ export const projects = [
         link: 'https://github.com/dorndickence',
     },
     {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Real time city weather app',
+        description: 'Developed a  city weather application that displays any city real time weather condition .',
+        link: 'https://github.com/dorndickence',
+    },
+    {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Worker AI',
