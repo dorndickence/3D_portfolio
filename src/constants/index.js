@@ -205,21 +205,21 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Notes app',
         description: 'Developed a web application notes app that stores users data on ocal storage even when the browser is refreshed..',
-        link: 'https://github.com/dorndickence',
+        link: 'https://online-notes-app-seven.vercel.app/',
     },
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Real time city weather app',
         description: 'Developed a  city weather application that displays any city real time weather condition .',
-        link: 'https://github.com/dorndickence',
+        link: 'https://weather-app-project-iota.vercel.app/',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Worker AI',
         description: 'Developed an AI that leverages work by mimicking human emotions and Natural language .',
-        link: 'https://github.com/dorndickence',
+        link: 'https://my-worker-ai.onrender.com',
     },
     {
         iconUrl: estate,
@@ -235,7 +235,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Random password generator',
         description: ' Made a random password genearte that generates string passwords based on the shmbol ,numbers and letters.',
-        link: 'https://github.com/dorndickence',
+        link: 'https://random-password-generator-project-ten.vercel.app/',
     },
     {
         iconUrl: car,
@@ -257,14 +257,14 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Speech to text app',
         description: 'Built an application where uers texts can be converted to speech.',
-        link: 'https://github.com/dorndickence',
+        link: 'https://project3-text-to-speach-website.vercel.app/',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'IPhone calculator prototype',
         description: 'Developed a web application for an iphone calculator .',
-        link: 'https://github.com/dorndickence',
+        link: 'https://project-calculator1.vercel.app/',
     },
     {
         iconUrl: pricewise,
@@ -278,6 +278,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Smart calculator with simple JavaScript ',
         description: 'Used little piece of JavaScript to bring calculator to real world.',
-        link: 'https://github.com/dorndickence',
+        link: 'https://project-calculator2.vercel.app/',
     }
 ];
