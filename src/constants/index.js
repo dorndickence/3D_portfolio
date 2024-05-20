@@ -206,7 +206,7 @@ export const projects = [
         name: 'Notes app',
         description: 'Developed a web application notes app that stores users data on ocal storage even when the browser is refreshed..',
         link: 'https://online-notes-app-seven.vercel.app/',
-        <img src="">
+        imageUrl:'',
     },
     {
         iconUrl: pricewise,
