@@ -1,4 +1,4 @@
-import { shopify, meta, starbucks, tesla } from "../assets/images";
+import { shopify, meta, notes, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -206,7 +206,7 @@ export const projects = [
         name: 'Notes app',
         description: 'Developed a web application notes app that stores users data on ocal storage even when the browser is refreshed..',
         link: 'https://online-notes-app-seven.vercel.app/',
-        imageUrl:'',
+        imageUrl:'notes',
     },
     {
         iconUrl: pricewise,
