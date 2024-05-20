@@ -206,6 +206,7 @@ export const projects = [
         name: 'Notes app',
         description: 'Developed a web application notes app that stores users data on ocal storage even when the browser is refreshed..',
         link: 'https://online-notes-app-seven.vercel.app/',
+        <img src="">
     },
     {
         iconUrl: pricewise,
@@ -271,7 +272,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Sequence to sequence model',
         description: 'Developed a model that uses sequence to sequence mechanism and mimicks Natural language processing.',
-        link: 'https://github.com/dorndickence',
+        link: 'https://github.com/dorndickence/Sequence-to-sequence-',
     },
     {
         iconUrl: summiz,
