@@ -206,7 +206,7 @@ export const projects = [
         name: 'Notes app',
         description: 'Developed a web application notes app that stores users data on ocal storage even when the browser is refreshed..',
         link: 'https://online-notes-app-seven.vercel.app/',
-        imageUrl:'notes',
+        
     },
     {
         iconUrl: pricewise,
@@ -257,8 +257,15 @@ export const projects = [
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Speech to text app',
-        description: 'Built an application where uers texts can be converted to speech.',
+        description: 'Built an application where users texts can be converted to speech.',
         link: 'https://project3-text-to-speach-website.vercel.app/',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'Random Dog image generator 🐶🐕🐩',
+        description: 'Built a free site where users can generate and download random dog image.',
+        link: 'https://random-dog-image-generator-delta.vercel.app/',
     },
     {
         iconUrl: estate,
